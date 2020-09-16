@@ -9,7 +9,7 @@ This repository has a Dockerfile for deploying [DeepFace](https://github.com/ser
 
 #### Usage 
 
-You must use image face detected.
+You must use detected face image.
 
 ```
 # input_shape = (None, 224, 224, 3)
@@ -39,7 +39,7 @@ result = result['predictions']
 
 #### Usage 
 
-You must use image face detected.
+You must use detected face image.
 
 ```
 # input_shape = (None, 96, 96, 3)
@@ -67,7 +67,7 @@ result = result['predictions']
 [![Run on Ainize](https://ainize.ai/images/run_on_ainize_button.svg)](https://ainize.web.app/redirect?git_repo=https://github.com/woomurf/deepface-model?branch=fbdeepface)
 #### Usage 
 
-You must use image face detected.
+You must use detected face image.
 
 ```
 # input_shape = (None, 152, 152, 3)
@@ -96,7 +96,7 @@ result = result['predictions']
 
 #### Usage 
 
-You must use image face detected.
+You must use detected face image.
 
 ```
 # input_shape = (None, 55, 47, 3)
@@ -125,7 +125,7 @@ result = result['predictions']
 
 #### Usage 
 
-You must use image face detected.
+You must use detected face image.
 
 ```
 # input_shape = (None, 160, 160, 3)
@@ -154,7 +154,7 @@ result = result['predictions']
 
 #### Usage 
 
-You must use image face detected.
+You must use detected face image.
 
 ```
 # input_shape = (None, 224, 224, 3)
@@ -183,7 +183,7 @@ result = result['predictions']
 
 #### Usage 
 
-You must use image face detected.
+You must use detected face image.
 
 ```
 # input_shape = (None, 224, 224, 3)
@@ -212,7 +212,7 @@ result = result['predictions']
 
 #### Usage 
 
-You must use image face detected.
+You must use detected face image.
 
 ```
 # input_shape = (None, 224, 224, 3)
@@ -241,7 +241,7 @@ result = result['predictions']
 
 #### Usage 
 
-You must use image face detected.
+You must use detected face image.
 
 ```
 # input_shape = (None, 48, 48, 1)
