@@ -2,6 +2,32 @@
 
 This repository has a Dockerfile for deploying [DeepFace](https://github.com/serengil/deepface) Models in [Ainize](https://ainize.ai).
 
+## Example 
+
+requirements
+
+- python3
+- deepface==0.0.33 (only for example)
+
+```
+cd example 
+
+python3 example.py --mode verify --model VGGFace --image1 ./sample1.png --image2 ./sample2.png 
+```
+
+mode = [verify, analyze]
+
+model = [VGGFace, OpenFace, FbDeepFace, DeepID, Facenet, Age, Gender, Race, Emotion]
+
+or each branch has a example code. 
+
+```
+# in vggface branch
+
+cd example 
+
+python3 example.py 
+```
 
 ### VGGFace
 
