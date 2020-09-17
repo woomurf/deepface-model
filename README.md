@@ -31,7 +31,7 @@ python3 example.py
 
 ### VGGFace
 
-[![Run on Ainize](https://ainize.ai/images/run_on_ainize_button.svg)](https://ainize.web.app/redirect?git_repo=https://github.com/woomurf/deepface-model?branch=vggface)
+[![Run on Ainize](https://ainize.ai/images/run_on_ainize_button.svg)](https://ainize.ai/woomurf/deepface-model?branch=vggface)
 
 #### Usage 
 
@@ -61,7 +61,7 @@ result = result['predictions']
 
 ### OpenFace
 
-[![Run on Ainize](https://ainize.ai/images/run_on_ainize_button.svg)](https://ainize.web.app/redirect?git_repo=https://github.com/woomurf/deepface-model?branch=openface)
+[![Run on Ainize](https://ainize.ai/images/run_on_ainize_button.svg)](https://ainize.ai/woomurf/deepface-model?branch=openface)
 
 #### Usage 
 
@@ -90,7 +90,7 @@ result = result['predictions']
 
 ### FbDeepFace 
 
-[![Run on Ainize](https://ainize.ai/images/run_on_ainize_button.svg)](https://ainize.web.app/redirect?git_repo=https://github.com/woomurf/deepface-model?branch=fbdeepface)
+[![Run on Ainize](https://ainize.ai/images/run_on_ainize_button.svg)](https://ainize.ai/woomurf/deepface-model?branch=fbdeepface)
 #### Usage 
 
 You must use detected face image.
@@ -118,7 +118,7 @@ result = result['predictions']
 
 ### DeepID
 
-[![Run on Ainize](https://ainize.ai/images/run_on_ainize_button.svg)](https://ainize.web.app/redirect?git_repo=https://github.com/woomurf/deepface-model?branch=deepid)
+[![Run on Ainize](https://ainize.ai/images/run_on_ainize_button.svg)](https://ainize.ai/woomurf/deepface-model?branch=deepid)
 
 #### Usage 
 
@@ -147,7 +147,7 @@ result = result['predictions']
 
 ### Facenet
 
-[![Run on Ainize](https://ainize.ai/images/run_on_ainize_button.svg)](https://ainize.web.app/redirect?git_repo=https://github.com/woomurf/deepface-model?branch=facenet)
+[![Run on Ainize](https://ainize.ai/images/run_on_ainize_button.svg)](https://ainize.ai/woomurf/deepface-model?branch=facenet)
 
 #### Usage 
 
@@ -176,7 +176,7 @@ result = result['predictions']
 
 ### Age 
 
-[![Run on Ainize](https://ainize.ai/images/run_on_ainize_button.svg)](https://ainize.web.app/redirect?git_repo=https://github.com/woomurf/deepface-model?branch=age)
+[![Run on Ainize](https://ainize.ai/images/run_on_ainize_button.svg)](https://ainize.ai/woomurf/deepface-model?branch=age)
 
 #### Usage 
 
@@ -205,7 +205,7 @@ result = result['predictions']
 
 ### Gender
 
-[![Run on Ainize](https://ainize.ai/images/run_on_ainize_button.svg)](https://ainize.web.app/redirect?git_repo=https://github.com/woomurf/deepface-model?branch=gender)
+[![Run on Ainize](https://ainize.ai/images/run_on_ainize_button.svg)](https://ainize.ai/woomurf/deepface-model?branch=gender)
 
 #### Usage 
 
@@ -234,7 +234,7 @@ result = result['predictions']
 
 ### Race 
 
-[![Run on Ainize](https://ainize.ai/images/run_on_ainize_button.svg)](https://ainize.web.app/redirect?git_repo=https://github.com/woomurf/deepface-model?branch=race)
+[![Run on Ainize](https://ainize.ai/images/run_on_ainize_button.svg)](https://ainize.ai/woomurf/deepface-model?branch=race)
 
 #### Usage 
 
@@ -263,7 +263,7 @@ result = result['predictions']
 
 ### Emotion 
 
-[![Run on Ainize](https://ainize.ai/images/run_on_ainize_button.svg)](https://ainize.web.app/redirect?git_repo=https://github.com/woomurf/deepface-model?branch=emotion)
+[![Run on Ainize](https://ainize.ai/images/run_on_ainize_button.svg)](https://ainize.ai/woomurf/deepface-model?branch=emotion)
 
 #### Usage 
 
