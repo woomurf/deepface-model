@@ -65,7 +65,7 @@ def verifyTest():
 
     # get distance 
     distance = findCosineDistance(img1_result, img2_result)
-    threshold = findThreshold('VGG-Face', 'cosine')
+    threshold = findThreshold('DeepFace', 'cosine')
 
     if distance <= threshold:
         result = True
