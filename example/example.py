@@ -62,7 +62,7 @@ def verifyTest():
     img2_result = np.array(img2_result)[0,:]
 
     distance = findCosineDistance(img1_result, img2_result)
-    threshold = findThreshold('VGG-Face', 'cosine')
+    threshold = findThreshold('Facenet', 'cosine')
 
     if distance <= threshold:
         result = True
